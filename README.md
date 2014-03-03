@@ -60,8 +60,7 @@ Current Metric used:
 TODO (ROADMAP):
 ---------------
 
-* Simulate a Real World Dataset(Network activity logs of an Organization)
-* Test other Metrics for Networks
+* Simulate a Real World Dataset(Network activity logs of a real world network)
 * Take care of other factors in Network 
 * Reduce Communication blockage frequeny
 * Port to other network controllers ( Floodlight, RYU ?????? maybe)
@@ -71,11 +70,9 @@ TODO (ROADMAP):
 Interesting:
 ------------
 
-We presented a poster for the same as part of our Cloud Computing Course. 
-[Link to the Poster] [2]
+We presented a poster for the same as part of our Cloud Computing Course :-)
 
 
 
 
 [1]: https://dl.dropboxusercontent.com/u/37587724/abstract.pdf "Abstract Link" 
-[2]: https://dl.dropboxusercontent.com/u/37587724/Group05_new.pdf "Link to the Poster"
