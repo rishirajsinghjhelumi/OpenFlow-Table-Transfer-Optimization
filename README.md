@@ -27,13 +27,13 @@ Pulkit Goel
 
 Team Members: 
 -------------
-Kumar Rishabh (shailrishabh@gmail.com)
+Kumar Rishabh
 
-Vishrut Mehta (vishrut.mehta009@gmail.com)
+Vishrut Mehta
 
-Rishi Raj Singh Jhelumi (rishiakhnoor@gmail.com)
+Rishi Raj Singh Jhelumi
 
-Rajeev Kumar (rajeevkumarchail@gmail.com)
+Rajeev Kumar
 
 
 
